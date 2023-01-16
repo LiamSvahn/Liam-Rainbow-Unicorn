@@ -1,2 +1,4 @@
 var arr = ["apa", 'ourangutang', 'gorila', 'get', 'giraff'];
-console.log(arr)
+
+
+console.log(arr);
